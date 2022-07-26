@@ -1,8 +1,8 @@
 # Situational_Session_Generator
 
-This is the code for the paper 'Audio Autotagging as Proxy for Contextual MusicRecommendation'. If you use the code in your research, please cite the paper as:
+This is the code for the paper 'Exploiting device and audio data to tag music with user-aware listening contexts'. If you use the code in your research, please cite the paper as:
 
-> Karim M. Ibrahim, Elena V. Epure, Geoffroy Peeters, and Gaël Richard. 2021. Audio Autotagging as Proxy for Contextual Music Recommendation. [*Under Revision*]
+> Karim M. Ibrahim, Elena V. Epure, Geoffroy Peeters, and Gaël Richard. 2022. Exploiting device and audio data to tag music with user-aware listening contexts. [*Under Revision*]
 
 ## Instructions
 
